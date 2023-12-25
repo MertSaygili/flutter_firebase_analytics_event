@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "243311062615",
+    "project_id": "fir-analytics-example-c69c7",
+    "storage_bucket": "fir-analytics-example-c69c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243311062615:android:4b7035080336e4d2cefd12",
+        "android_client_info": {
+          "package_name": "com.example.firebase_analytics_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1WtKj-NGW8MJLbd_30DSW0C86d2k_lJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243311062615:android:b26de2c3f2c11558cefd12",
+        "android_client_info": {
+          "package_name": "com.flutterfire_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1WtKj-NGW8MJLbd_30DSW0C86d2k_lJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
